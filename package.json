@@ -10,7 +10,7 @@
     "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install"
   },
   "keywords": [],
-  "author": "Vahid Koha",
+  "author": "Maitree",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.15"
